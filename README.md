@@ -17,5 +17,5 @@ To reload, press R (Can only be triggered when Ammo Count is any number between 
 
 To use the special, press Q and use the mouse to aim 
 
-To dash, press spacebar (hopefully if i can figure it out)
+
 
